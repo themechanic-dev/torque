@@ -21,6 +21,12 @@ Your voice is transcribed **on your own computer** — it never goes to a cloud 
 
 ### [⬇ Download Torque](https://themechanic.store) · [What's new](https://themechanic.store/#changelog) · [Support](mailto:support@themechanic.store)
 
+<br>
+
+<img src="assets/screenshot-chat.png" width="100%" alt="Torque open on a Wikipedia article, with the assistant navigating the site, reading the page and answering in the side panel">
+
+<sub>**Just say it.** Torque opened Wikipedia, searched for the band, read the article and answered — while you watched.</sub>
+
 </div>
 
 ---
@@ -38,41 +44,93 @@ And it is built to respect you: speech recognition and speech synthesis run **lo
 ## ✨ What it does
 
 ### 🎙️ Voice-first, hands-free
+
 - Talk naturally — Torque listens and acts: open sites, search, scroll, go back, summarise.
 - **Speech recognition runs on your computer**, accelerated by your graphics card when one is available.
-- Spoken replies, so you can keep your eyes (and hands) somewhere else.
+- Spoken replies, so you can keep your eyes — and your hands — somewhere else.
+
+<br>
 
 ### 🧠 An assistant that actually does things
+
+It doesn't just answer. It navigates, fills fields, presses enter, reads the result — and tells you what it found.
+
 - Reads the page you are on and answers questions about it.
-- Opens tabs, navigates, summarises long articles, takes screenshots.
+- Opens tabs, summarises long articles, takes screenshots.
 - **Chat with your open tabs** — ask across everything you have open.
-- **Routines** — save a multi-step task once, then trigger it whenever you like.
+- **Routines** — describe a task once, in plain words, and let it run on a schedule.
+
+<div align="center">
+<img src="assets/screenshot-routines.png" width="92%" alt="The Routines tab, with scheduled tasks written in plain language">
+<br>
+<sub>**Routines.** Write it the way you'd say it — *"Open CNN.com and read me the main headlines"* — and it runs every morning.</sub>
+</div>
+
+<br>
 
 ### 📈 Built for people who watch markets
+
 - **Position analysis** — Torque reads your live chart and estimates the odds of reaching your target versus your stop, **without ever navigating away from the chart you are watching**.
 - **Prediction markets** — on markets like Polymarket it reads the implied odds and estimates your win probability. Any extra research happens quietly in the background, so your page never changes.
 - Paper-trading and Pine-script helpers for TradingView.
 
-> These are estimates and research aids — not investment advice. Torque never places, confirms or cancels an order for you.
+> These are estimates and research aids — **not investment advice**. Torque never places, confirms or cancels an order for you.
 
-### 🔒 Privacy and protection, built in
-- **VPN** (OpenVPN) — routes **all** your traffic through the country you choose, with IPv6 leak protection so nothing slips outside the tunnel.
-- **Tray icon** — one glance tells you whether the VPN is actually protecting you, plus live upload/download speed.
-- **Ad & tracker blocker** on by default.
-- **Private tabs** that leave no history behind.
-- **Password vault** — your logins encrypted behind a single master password.
+<br>
+
+### 🔒 A VPN that covers everything
+
+Not a proxy for one tab — a real OpenVPN tunnel that routes **all** your traffic through the country you choose, with IPv6 leak protection so nothing slips outside it.
+
+<div align="center">
+<img src="assets/screenshot-vpn.png" width="92%" alt="The VPN tab connected to a server, with several countries configured">
+<br>
+<sub>Add as many countries as you like. Credentials stay <strong>on your machine</strong> — never on our servers.</sub>
+</div>
+
+<br>
+
+And you never have to wonder whether it's actually on:
+
+<div align="center">
+<img src="assets/screenshot-tray.png" width="460" alt="The Torque tray menu showing that all traffic is protected via VPN, with live download and upload speed">
+<br>
+<sub>**One glance.** The tray tells you the truth — protected or not — plus live upload and download speed.</sub>
+</div>
+
+<br>
+
+### 🔐 Password vault
+
+Your logins, encrypted behind a single master password. Reveal, copy, or lock the vault instantly — nothing is stored in plain text, and nothing leaves your computer.
+
+<div align="center">
+<img src="assets/screenshot-passwords.png" width="92%" alt="The Passwords tab showing saved logins with hidden passwords and a lock button">
+<br>
+<sub>Passwords are never shown until <em>you</em> ask. One button locks everything again.</sub>
+</div>
+
+<br>
 
 ### 💾 Your data, and it travels with you
-- **Encrypted backup file** containing your bookmarks, saved passwords, API key, VPN connections *(including their certificates)* and browsing history.
-- Restore it on another computer — **even a different operating system**. A backup made on Windows restores onto Linux, VPN connections included.
-- Locked with the same master password you already use. Quiet automatic local backups protect you from crashes too.
+
+One encrypted file holds your bookmarks, saved passwords, API key, VPN connections *(certificates included)* and history — locked with the master password you already use.
+
+<div align="center">
+<img src="assets/screenshot-backup.png" width="92%" alt="The Backup tab, offering an encrypted backup file and restore from file">
+<br>
+<sub>Restore it on another computer — <strong>even a different operating system</strong>. A backup made on Windows restores onto Linux, VPN connections and all.</sub>
+</div>
+
+<br>
 
 ### 🧰 Everything you expect from a browser
+
 - Download manager with live progress, open-file and open-folder.
 - History with search and delete-by-time-range, plus optional clear-on-exit.
 - **Immersive fullscreen** where the toolbar, chat and favourites glide in from the screen edges.
 - Reader mode and read-aloud.
-- Screenshots saved to a folder you choose.
+- Ad & tracker blocker on by default, and private tabs that leave no history.
 - Pick your microphone, speaker and camera — Bluetooth headsets included.
 
 ---
