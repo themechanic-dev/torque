@@ -1,0 +1,34 @@
+# This repository is presentation material only — no source, no builds, no secrets.
+# These rules are a safety net so nothing sensitive can ever be committed here by accident.
+
+# Secrets & credentials
+*.key
+*.pem
+*.env
+.env*
+*.ovpn
+*.crt
+*.p12
+*.pfx
+secrets.*
+credentials.*
+
+# Builds & binaries
+dist/
+dist_installer/
+build/
+out/
+*.exe
+*.deb
+*.AppImage
+*.dmg
+*.blockmap
+*.asar
+
+# Dependencies
+node_modules/
+
+# OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
