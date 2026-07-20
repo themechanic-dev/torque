@@ -6,6 +6,10 @@ The latest version is always at **[themechanic.store](https://themechanic.store)
 
 ---
 
+## v2.0.13 — 21 Jul 2026
+- 📂 **Open local files** — open a PDF or image straight from your computer with the new Open-file button, or by pasting its path in the address bar.
+- 🖱️ **"Open with" Torque** — right-click any PDF or image on your disk → *Open with* → **Torque**, and it opens directly in the browser (Windows & Linux).
+
 ## v2.0.12 — 20 Jul 2026
 - 📄 **Read PDFs** — open a PDF and ask Torque to read or summarise it. It understands both the text **and** scanned/image pages, and answers you right in the chat.
 - 🖼️ **Export PDF to images** — turn any open PDF into high-resolution **PNG** images (one per page), saved to your computer, with live progress in the downloads panel.
