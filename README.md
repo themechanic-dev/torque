@@ -14,12 +14,12 @@ Your voice is transcribed **on your own computer** — it never goes to a cloud 
 
 ![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%2F%20Debian-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Version](https://img.shields.io/badge/version-2.0.11-3AA0FF?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-2.0.12-3AA0FF?style=for-the-badge)
 ![Price](https://img.shields.io/badge/free%20while%20we%20grow-1DC98C?style=for-the-badge)
 
 <br>
 
-### [⬇ Download Torque](https://themechanic.store) · [What's new](https://themechanic.store/#changelog) · [Support](mailto:support@themechanic.store)
+### [⬇ Download Torque](https://themechanic.store) · [What's new](CHANGELOG.md) · [Support](mailto:support@themechanic.store)
 
 <br>
 
@@ -58,6 +58,7 @@ It doesn't just answer. It navigates, fills fields, presses enter, reads the res
 - Reads the page you are on and answers questions about it.
 - Opens tabs, summarises long articles, takes screenshots.
 - **Chat with your open tabs** — ask across everything you have open.
+- **Read PDFs** — open a PDF and Torque reads or summarises it, understanding both the text and scanned/image pages.
 - **Routines** — describe a task once, in plain words, and let it run on a schedule.
 
 <div align="center">
@@ -130,6 +131,7 @@ One encrypted file holds your bookmarks, saved passwords, API key, VPN connectio
 - History with search and delete-by-time-range, plus optional clear-on-exit.
 - **Immersive fullscreen** where the toolbar, chat and favourites glide in from the screen edges.
 - Reader mode and read-aloud.
+- Export any open PDF to high-resolution PNG images (one page per file).
 - Ad & tracker blocker on by default, and private tabs that leave no history.
 - Pick your microphone, speaker and camera — Bluetooth headsets included.
 
