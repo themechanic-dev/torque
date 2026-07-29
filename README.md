@@ -6,14 +6,15 @@
 
 ### The browser you talk to.
 
-**A voice-first AI browser for Windows and Linux.** Browse hands-free, ask an assistant that actually reads and acts on the page, and stay private behind a built-in VPN, ad blocker and encrypted password vault.
+**A voice-first AI browser for Windows, Linux and Android.** Browse hands-free, ask an assistant that actually reads and acts on the page, and stay private behind a built-in VPN, ad blocker and encrypted password vault.
 
-Your voice is transcribed **on your own computer** — it never goes to a cloud service.
+Your voice is transcribed **on your own device** — it never goes to a cloud service.
 
 <br>
 
 ![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu%20%2F%20Debian-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Version](https://img.shields.io/badge/version-2.0.14-3AA0FF?style=for-the-badge)
 ![Price](https://img.shields.io/badge/free%20while%20we%20grow-1DC98C?style=for-the-badge)
 
@@ -65,6 +66,22 @@ It doesn't just answer. It navigates, fills fields, presses enter, reads the res
 <img src="assets/screenshot-routines.png" width="92%" alt="The Routines tab, with scheduled tasks written in plain language">
 <br>
 <sub>**Routines.** Write it the way you'd say it — *"Open CNN.com and read me the main headlines"* — and it runs every morning.</sub>
+</div>
+
+<br>
+
+### 📱 On your phone, too
+
+The same browser, the same assistant, the same routines — on **Android 8.0 or newer**. Your bookmarks, saved passwords and routines come with you.
+
+When a routine is due, Torque turns the screen on by itself and shows you the page over the lock screen, alarm-clock style. The phone stays locked underneath.
+
+<div align="center">
+<img src="assets/screenshot-android-chat.png" width="40%" alt="Torque on Android: the assistant navigating to a Wikipedia article, reading it and answering in three sentences">
+&nbsp;&nbsp;
+<img src="assets/screenshot-android-browser.png" width="40%" alt="Torque on Android showing the article it just opened, with tabs, address bar and the VPN indicator">
+<br>
+<sub>**Android.** Ask for something and watch it navigate and read the page — then the page it opened is right there waiting.</sub>
 </div>
 
 <br>
@@ -197,6 +214,13 @@ sudo apt update && sudo apt upgrade
 
 > Packages are signed with our GPG key, so `apt` verifies every update before installing it.
 
+### 📱 Android 8.0 or newer
+
+1. Open **[themechanic.store](https://themechanic.store/download?os=android)** on your phone and download the `.apk`.
+2. Tap it and allow the install when your phone asks. That prompt is normal for an app you download yourself instead of from a store.
+
+One file covers every phone — it carries both the 64-bit and 32-bit builds. Torque checks for new versions on its own and downloads them **on Wi-Fi only**, then asks you to confirm the install.
+
 ---
 
 ## 🖥️ Requirements
@@ -205,6 +229,7 @@ sudo apt update && sudo apt upgrade
 |---|---|
 | **Windows** | Windows 10 or 11, 64-bit |
 | **Linux** | Ubuntu / Debian, amd64 |
+| **Android** | Android 8.0 or newer |
 | **AI features** | Your own Anthropic API key |
 | **Voice** | A microphone. A GPU is optional — it just makes recognition faster. |
 

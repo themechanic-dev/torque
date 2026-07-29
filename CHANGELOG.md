@@ -1,10 +1,14 @@
 # Changelog
 
-All notable changes to **Torque** are listed here. Torque updates itself automatically — on Windows silently in the background, on Linux through your system's package manager.
+All notable changes to **Torque** are listed here. Torque updates itself automatically — on Windows silently in the background, on Linux through your system's package manager, and on Android by offering the new version for you to confirm.
 
 The latest version is always at **[themechanic.store](https://themechanic.store)**.
 
 ---
+
+## Android 1.0.1 — 29 Jul 2026
+- 📱 **Torque on Android** — the same browser, now on your phone: your voice, your bookmarks, your saved passwords, your routines. Android 8.0 or newer.
+- ⏰ **Routines wake the phone** — when one is due, Torque turns the screen on by itself and shows the page over the lock screen, alarm-clock style. The phone stays locked underneath.
 
 ## v2.0.14 — 29 Jul 2026
 - 🧠 **Claude Opus 5** — the newest and most capable Claude model is now available, and is the first choice in the model list.
