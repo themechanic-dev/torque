@@ -6,6 +6,16 @@ The latest version is always at **[themechanic.store](https://themechanic.store)
 
 ---
 
+## v2.0.14 — 29 Jul 2026
+- 🧠 **Claude Opus 5** — the newest and most capable Claude model is now available, and is the first choice in the model list.
+- 🎨 **Light theme** — a proper daylight look with crisp dark controls, alongside the existing dark themes.
+- 🔐 **Password autofill, rewritten** — it now fills sites built with React, skips hidden decoy fields, handles two-step logins like Google, and will never put a saved password into a site it was not saved for.
+- 🛡️ **Honest VPN indicator** — "connecting" is now amber. Green means you are actually protected, nothing else.
+- 🚪 **Sign out really signs you out** — the app locks immediately instead of staying usable until the next restart.
+- 🔎 **Web search fix** — a search could quietly return the contents of another open tab instead of the result. It no longer can.
+- ⏱️ **Routines** — one that gets stuck now gives up after a few minutes instead of blocking every routine after it.
+- 🎯 **Polish** — bigger, easier-to-hit ‹ › ⟳ buttons, and the save/fill bars wrap instead of pushing their buttons off-screen in narrow windows.
+
 ## v2.0.13 — 21 Jul 2026
 - 📂 **Open local files** — open a PDF or image straight from your computer with the new Open-file button, or by pasting its path in the address bar.
 - 🖱️ **"Open with" Torque** — right-click any PDF or image on your disk → *Open with* → **Torque**, and it opens directly in the browser (Windows & Linux).
