@@ -86,6 +86,15 @@ When a routine is due, Torque turns the screen on by itself and shows you the pa
 
 <br>
 
+<div align="center">
+
+https://github.com/themechanic-dev/torque/raw/main/assets/torque-routine-demo.mp4
+
+<sub>**A routine, start to finish.** Half past seven in the morning, nobody touched the phone: it woke itself, opened the news and read the headlines out loud — still locked. (<a href="assets/torque-routine-demo.mp4">download</a>)</sub>
+</div>
+
+<br>
+
 ### 📈 Built for people who watch markets
 
 - **Position analysis** — Torque reads your live chart and estimates the odds of reaching your target versus your stop, **without ever navigating away from the chart you are watching**.
