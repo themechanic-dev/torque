@@ -87,9 +87,9 @@ When a routine is due, Torque turns the screen on by itself and shows you the pa
 <br>
 
 <div align="center">
-<a href="https://github.com/themechanic-dev/torque/raw/main/assets/torque-routine-demo.mp4"><img src="assets/torque-routine-poster.png" width="42%" alt="A routine running on the lock screen: BBC News open, Torque reading the headlines aloud, with a slide-to-stop bar along the bottom"></a>
+<a href="https://www.youtube.com/watch?v=W-u94K5CkJM"><img src="assets/torque-routine-poster.png" width="42%" alt="A routine running on the lock screen: BBC News open, Torque reading the headlines aloud, with a slide-to-stop bar along the bottom"></a>
 <br>
-<sub>**A routine, start to finish** — <a href="https://github.com/themechanic-dev/torque/raw/main/assets/torque-routine-demo.mp4">watch it with sound</a>. Half past seven in the morning, nobody touched the phone: it woke itself, opened the news and read the headlines out loud, still locked.</sub>
+<sub>**A routine, start to finish** — <a href="https://www.youtube.com/watch?v=W-u94K5CkJM">watch it with sound</a>. Half past seven in the morning, nobody touched the phone: it woke itself, opened the news and read the headlines out loud, still locked.</sub>
 </div>
 
 <br>
