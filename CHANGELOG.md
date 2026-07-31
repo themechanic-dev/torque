@@ -6,6 +6,9 @@ The latest version is always at **[themechanic.store](https://themechanic.store)
 
 ---
 
+## Android 1.0.2 — 30 Jul 2026
+- ⏰ **Spin a dial to set a routine's time** — hours, minutes, AM/PM, instead of nudging a tiny three-segment stepper that never raised a keyboard. It also says AM/PM in the language you chose, rather than the one your phone happens to be set to.
+
 ## Android 1.0.1 — 29 Jul 2026
 - 📱 **Torque on Android** — the same browser, now on your phone: your voice, your bookmarks, your saved passwords, your routines. Android 8.0 or newer.
 - ⏰ **Routines wake the phone** — when one is due, Torque turns the screen on by itself and shows the page over the lock screen, alarm-clock style. The phone stays locked underneath.
