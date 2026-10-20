@@ -6,6 +6,28 @@ The latest version is always at **[themechanic.store](https://themechanic.store)
 
 ---
 
+## v2.1.0 — 20 Oct 2026
+- 🎨 **A whole new look** — cleaner icons, a single toolbar row, a new home page, and one box for addresses, searches, questions and commands. Press Ctrl+K to reach any action by typing.
+- 🌍 **Translate whole pages** — any page in another language turns into yours in place, starting with what's on screen. One click brings the original back.
+- 🕰️ **History that understands you** — ask "what was I reading yesterday about electric cars?" and Torque finds it, tells you when, and opens or reads it to you. 90 days, with a short preview of each page.
+- 📺 **Picture-in-picture** — keep a video playing in a small floating window while you browse.
+- 🖱️ **Right-click menus** — open links in a new or private tab, and ask Torque about any link or image.
+- ↩️ **Reopen closed tabs** — Undo, Ctrl+Shift+T, or just say "reopen what I closed".
+- 🗂️ **Find any tab by voice** — "go to the YouTube tab", "close the news tab".
+- 🎙️ **Voice everywhere** — sites with a microphone button now hear you through Torque, and articles are read aloud with each sentence highlighted.
+- 👀 **See what the assistant is doing** — step-by-step cards and a Stop button, and it checks what actually loaded instead of guessing.
+- 🧠 **Claude Opus 5.5, Sonnet 5.5 and Haiku 5.5** are now available in Settings.
+- 🛟 **Sturdier** — a crashing page no longer takes Torque down, and a page that doesn't open tells you why, with a Try again button.
+- 🔊 **Natural voices are back**, with a faster first word.
+- 🧹 **Dozens of fixes from hands-on testing on Windows and Linux** — typing always works after a confirmation, Esc closes panels, the address bar updates instantly, and new tabs open your start page.
+
+## Android 1.1.0 — 20 Oct 2026
+- 🎨 **The new look comes to your phone** — page translation, history that understands you and finding tabs by voice, just like on desktop.
+- 📺 **Real fullscreen video** — it fills the screen and turns sideways, and pressing Home keeps it playing in a small floating window.
+- ✍️ **Easier typing** — tapping the address bar simply selects it and opens the keyboard, no copy/paste popup in the way.
+- ⏰ **Routines you can count on** — they wake the phone on Android 16 even when Torque was closed, and the lock screen shows just the page and the slide-to-stop bar.
+- 🔁 **Hands-free that stays on**, and faster replies.
+
 ## Android 1.0.2 — 30 Jul 2026
 - ⏰ **Spin a dial to set a routine's time** — hours, minutes, AM/PM, instead of nudging a tiny three-segment stepper that never raised a keyboard. It also says AM/PM in the language you chose, rather than the one your phone happens to be set to.
 
